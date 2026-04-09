@@ -25,7 +25,8 @@ This project analyzes sales data using Excel and presents insights through an in
 - Sales show seasonal trends across months
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+<img width="1192" height="585" alt="image" src="https://github.com/user-attachments/assets/0396149c-dc6e-43bd-a9d8-cc146ca4cbe4" />
+
 
 ## 🚀 Conclusion
 This dashboard helps in understanding business performance and supports data-driven decision making.

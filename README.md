@@ -36,10 +36,11 @@ This project analyzes sales data and presents insights through interactive dashb
 
 ## 📷 Dashboard Preview (Excel)
 
-<img width="1192" height="585" alt="image" src="https://github.com/user-attachments/assets/0396149c-dc6e-43bd-a9d8-cc146ca4cbe4" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/2062224a-9356-45b2-a95d-9349fe7bc6e8" />
 
 ## 📷 Dashboard Preview (PowerBI)
-<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/2062224a-9356-45b2-a95d-9349fe7bc6e8" />
+<img width="1192" height="585" alt="image" src="https://github.com/user-attachments/assets/0396149c-dc6e-43bd-a9d8-cc146ca4cbe4" />
+
 
 ## 🚀 Conclusion
 
